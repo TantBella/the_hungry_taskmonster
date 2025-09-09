@@ -57,3 +57,5 @@ Each team member took responsibility for keeping the monster happy by:
 - Azure Container Apps + Bicep = monster-sized cloud magic.
 - Azure DevOps Pipelines are basically a conveyor belt of snacks for the beast.
 - Working together is the only way to keep a productivity monster under control.
+
+  ![](https://github.com/TantBella/the_hungry_taskmonster/blob/main/todo_monster.png)
